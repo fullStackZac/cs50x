@@ -1,0 +1,13 @@
+Below is a link to my scratch game created for problem set 0 of week 0 in CS50x.  
+It is a space shmup(ish) game which allows the player to move their rocket ship 
+from side to side via the 'A' and 'D' keys. The player presses 'Space' to fire
+at evil space jellyfools which appear at random spots at the top of the screen and
+work their way to the bottom in an attempt to break through the player's defense.
+If too many evil space jellyfools get by the player then the game is lost.  If the
+player kills all 50 jellyfools on the attack then the game is won.
+
+Link: https://scratch.mit.edu/projects/732695275
+
+Enjoy! 
+
+PS: Feedback is welcome and wanted!
